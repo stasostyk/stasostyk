@@ -6,4 +6,4 @@ I'm a junior who loves tech and debate.
 * Future plans: C++, SFML, Julia
 * Experience with: Python, Java, Go, Django, Jekyll, Web Design
 
-Check out my website at [stasostyk.github.io](url)!
+Check out my website at [https://stasostyk.github.io/](url)!
