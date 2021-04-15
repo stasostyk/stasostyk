@@ -6,4 +6,6 @@ I'm a junior who loves tech and debate.
 * Future plans: C++, SFML, Julia
 * Experience with: Python, Java, Go, Django, Jekyll, Web Design
 
-Check out my website at https://stasostyk.github.io/
+Check out my personal website at https://stasostyk.github.io/
+
+Currently working on phisics.org, an interactive teaching resource for physics education.
