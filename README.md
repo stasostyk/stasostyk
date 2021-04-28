@@ -11,3 +11,5 @@ Check out my personal website at https://stasostyk.github.io/
 Currently working on phisics.org, an interactive teaching resource for physics education.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasostyk&show_icons=true&theme=react&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasostyk&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
