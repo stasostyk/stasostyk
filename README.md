@@ -9,3 +9,5 @@ I'm a junior who loves tech and debate.
 Check out my personal website at https://stasostyk.github.io/
 
 Currently working on phisics.org, an interactive teaching resource for physics education.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasostyk&show_icons=true&theme=react&count_private=true)
