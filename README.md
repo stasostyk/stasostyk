@@ -8,6 +8,6 @@ I'm a junior who loves tech and debate.
 
 Check out my personal website at https://stasostyk.github.io/
 
-Currently working on phisics.org, an interactive teaching resource for physics education.
+Currently working on [phisics.tech](url), an interactive teaching resource for physics education.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasostyk&layout=compact&theme=react&langs_count=10&hide=sass)](https://github.com/anuraghazra/github-readme-stats)
