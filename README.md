@@ -14,4 +14,4 @@ Currently working on [Phisics.tech](https://phisics.tech), an interactive teachi
 
 #### <p align="center">700+ Visitors, 3000+ Page Visits, 60+ Countries!</p>
 
-<center> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasostyk&layout=compact&theme=react&langs_count=10&hide=sass)](https://github.com/anuraghazra/github-readme-stats) </center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasostyk&layout=compact&theme=react&langs_count=10&hide=sass)](https://github.com/anuraghazra/github-readme-stats)
