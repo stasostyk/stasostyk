@@ -2,8 +2,8 @@
 
 I'm a junior who loves tech and debate. 
 
-* Currently learning: JS
-* Future plans: C++, SFML, Julia, Flutter & Dart
+* Currently learning 💡 JS
+* Future plans 🚀 C++, SFML, Julia, Flutter & Dart
 * I ❤️ p5js, python, java, golang, django, jekyll, & webdev
 
 Check out my personal website at https://stasostyk.github.io/
