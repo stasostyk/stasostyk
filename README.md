@@ -12,6 +12,6 @@ Check out my personal website at https://stasostyk.github.io/
 Currently working on [Phisics.tech](https://phisics.tech), an interactive teaching platform for physics based on simulations made in p5js.
 
 
-#### <p align="center">800+ Visitors, 3500+ Page Visits, 60+ Countries!</p>
+#### <p align="center">2,000+ Visitors, 10,000+ Page Visits, 90+ Countries!</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasostyk&layout=compact&theme=react&langs_count=10&hide=sass)](https://github.com/anuraghazra/github-readme-stats)
