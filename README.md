@@ -16,5 +16,10 @@ As I am in my senior year in high school, my dream is to study computer engineer
 ## Developing & maintaining [Phisics.tech](https://phisics.tech) 
 Currently working on [Phisics.tech](https://phisics.tech), a physics education website based on interactive simulations. Over 10,000 unique visitors from 114 countries! 
 
-
+<!-- 
 ![StasOstyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasostyk&theme=react&show_icons=true)
+ -->
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stasostyk&theme=react&show_icons=true">
+</p>
