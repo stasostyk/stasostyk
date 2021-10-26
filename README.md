@@ -1,6 +1,6 @@
 ## Hey! 👾 I'm Stas.
 
-### <p align="center"> I am from 🇿🇦 🇱🇧 🇵🇱 🇲🇽 🇶🇦</p>
+### <p align="center"> I have lived in 🇿🇦 🇱🇧 🇵🇱 🇲🇽 🇶🇦</p>
 
 I'm a high school senior who loves tech and debate.
 
