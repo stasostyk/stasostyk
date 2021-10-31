@@ -15,7 +15,7 @@ I'm a high school senior who loves tech and debate.
 If you enjoy my projects please reach out to me at <a href="mailto:s.ostyks@gmail.com">s.ostyks@gmail.com</a> in English, Spanish, or Polish.
 
 ## Developing & maintaining [Phisics.tech](https://phisics.tech) 
-Phisics is a website with interactive physics simulations which recieved 4 awards and has been used by 15,000+ students worldwide!  
+Phisics is a website with interactive physics simulations which recieved 4 awards and has been used by 17,000+ students worldwide!  
 
 <!-- 
 ![StasOstyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasostyk&theme=react&show_icons=true)
