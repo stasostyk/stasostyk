@@ -11,7 +11,7 @@ I'm a high school senior who loves tech and debate.
 * Here are my Hackathon 🏅 [devpost](https://devpost.com/stasostyk) projects!
 * IB Student 🧪 developing explicitly integrated physics engine for Math IA and a tuned mass damper for Physics IA (public soon)
 
-> My dream is to study computer escience in the United States where I see most potential in my learning career. However, I am unable to fund my education there. If by any chance you consider aiding me in the process, whether it be financially or otherwise, I would be honoured and more than thankful! I would love to hear from you in my email below :)
+> My dream is to study computer science in the United States where I see most potential in my learning career. However, I am unable to fund my education there. If by any chance you consider aiding me in the process, whether it be financially or otherwise, I would be honoured and more than thankful! I would love to hear from you in my email below :)
 
 If you enjoy my projects please reach out to me at <a href="mailto:s.ostyks@gmail.com">s.ostyks@gmail.com</a> in English, Spanish, or Polish.
 
