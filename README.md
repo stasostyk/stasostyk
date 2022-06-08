@@ -6,7 +6,7 @@
 * Class of 2025 🏫 Computer Science & Engineering at the Delft University of Technology
 * I ❤️ full stack development & programming w/ JS, python, java, and go.
 * Winner 🏆 at ThetaHacks, Spotify x SET.hacks(), and Distributed Compute Labs, with [@Carnales](https://github.com/carnales)!
-* Check out my personal website 🕸️ https://stasostyk.github.io/ 
+* Check out my personal website 🕸️ https://stas.engineer
 * Here are my Hackathon 🏅 [devpost](https://devpost.com/stasostyk) projects!
 * IB Student 🧪 developing explicitly integrated physics engine for Math IA and a tuned mass damper for Physics IA (public soon)
 
