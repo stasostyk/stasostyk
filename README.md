@@ -8,7 +8,7 @@
 * Winner 🏆 at ThetaHacks, Spotify x SET.hacks(), and Distributed Compute Labs, with [@Carnales](https://github.com/carnales)!
 * Check out my personal website 🕸️ https://stas.engineer
 * Here are my Hackathon 🏅 [devpost](https://devpost.com/stasostyk) projects!
-* IB Student 🧪 developing explicitly integrated physics engine for Math IA and a tuned mass damper for Physics IA (public soon)
+* IB Alumni 🧪 check out my explicitly integrated physics engine & tuned mass damper investigation reports
 
 If you enjoy my projects please reach out to me at <a href="mailto:s.ostyks@gmail.com">s.ostyks@gmail.com</a> in English, Spanish, or Polish.
 
