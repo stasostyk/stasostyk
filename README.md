@@ -12,13 +12,9 @@
 
 If you enjoy my projects please reach out to me at <a href="mailto:s.ostyks@gmail.com">s.ostyks@gmail.com</a> in English, Spanish, or Polish.
 
-## Developing & maintaining [Phisics.tech](https://phisics.tech) 
-Phisics is a website with interactive physics simulations which recieved 4 awards and has been used by 20,000+ students worldwide!  
+## Lead developer of [Phisics.tech](https://phisics.tech) 
+Phisics is a platform for interactive physics simulations. Winner of 4 awards and used by **24,000+ students worldwide!**
 
-<!-- 
-![StasOstyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasostyk&theme=react&show_icons=true)
- -->
- 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stasostyk&theme=react&show_icons=true">
-</p>
+</p> -->
