@@ -12,7 +12,7 @@
 
 If you enjoy my projects please reach out to me at <a href="mailto:s.ostyks@gmail.com">s.ostyks@gmail.com</a> in English, Spanish, or Polish.
 
-## Lead developer of [Phisics.tech](https://phisics.tech) 
+## Creator of [Phisics.tech](https://phisics.tech) 
 Phisics is a platform for interactive physics simulations. Winner of 4 awards and used by **24,000+ students worldwide!**
 
 <!-- <p align="center">
