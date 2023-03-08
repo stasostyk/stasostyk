@@ -13,7 +13,7 @@
 If you enjoy my projects please reach out to me at <a href="mailto:s.ostyks@gmail.com">s.ostyks@gmail.com</a> in English, Spanish, or Polish.
 
 ## Creator of [Phisics.tech](https://phisics.tech) 
-Phisics is a platform for interactive physics simulations. Winner of 4 awards and used by **24,000+ students worldwide!**
+Phisics is a platform for interactive physics simulations. Winner of 4 awards and used by **27,000+ students from 132 countries!**
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stasostyk&theme=react&show_icons=true">
